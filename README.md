@@ -6,7 +6,7 @@ A platform that allows users to easily create blocks of time to allow others to 
 
 **Contributors**: [Hamaad Chughtai](https://github.com/Hamaad102)
 
-**Live Demo**: 
+**Live Demo**: https://gregarious-buttercream-627e73.netlify.app/
 
 ---
 
