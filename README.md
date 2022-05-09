@@ -2,7 +2,7 @@
 
 A platform that allows users to easily create blocks of time to allow others to book appointments.
 
-**Tech Stack:** MongoDB, Express.js, React.js, Node.js, Typescript
+**Tech Stack:** MongoDB, Express.js, React.js, Node.js, Typescript, Material.UI
 
 **Contributors**: [Hamaad Chughtai](https://github.com/Hamaad102)
 
